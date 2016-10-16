@@ -1,0 +1,3 @@
+LINE001:Apple
+LINE002:Melon
+LINE003:Grape
